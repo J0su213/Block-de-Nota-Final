@@ -1,7 +1,7 @@
 {
     "name": "BLOCK DE NOTAS",
     "short_name": "NOTAS",
-    "start_url": "/",
+    "start_url": "https://j0su213.github.io/Block-de-Nota-Final/",
     "display": "standalone",
     "background_color": "#ffffff",
     "lang": "es",
